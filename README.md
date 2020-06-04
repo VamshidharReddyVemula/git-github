@@ -1,2 +1,2 @@
-# git-gith
+# git-github
 Begin
